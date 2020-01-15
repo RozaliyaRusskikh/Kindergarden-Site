@@ -1,1 +1,1 @@
-# Kindergarden-Site
+Kindergarden
